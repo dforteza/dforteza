@@ -14,6 +14,6 @@
 
 💡 My main languages: **C, Java, Python, R, MATLAB, HTML**.  
 
-🌱 I’m currently learning in 42 Madrid Campus.
+💻 42 Madrid Student since September 2024 
 
 📫 How to reach me dfortezabenito@gmail.com 
