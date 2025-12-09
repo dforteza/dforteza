@@ -12,8 +12,6 @@
 
 🔭 I’m currently working on improving my programming skills and exploring different areas of software development.  
 
-💡 My main languages: **C, Java, Python, R, MATLAB, HTML**.  
-
 💻 42 Madrid Student since September 2024 
 
 📫 How to reach me dfortezabenito@gmail.com 
